@@ -1,6 +1,5 @@
-# CLI Jarvis v3.0 - Savage Cyberpunk Terminal Assistant
+# CLI Jarvis - Terminal Assistant
 
-⚡ **No APIs. Fully offline. Pure chaos.** ⚡  
 
 CLI Jarvis is your personal cyberpunk terminal assistant built for speed, style, and control. Designed for coders, hackers, and polymaths who want their terminal to feel alive.
 
